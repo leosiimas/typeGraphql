@@ -5,7 +5,7 @@
   "author": "Leonardo Abreu <leonardo.abreu@inf.ufrgs.br>",
   "license": "MIT",
   "dependencies": {
-    "apollo-server-express": "^2.10.1",
+    "apollo-server-express": "^2.14.2",
     "bcryptjs": "^2.4.3",
     "class-validator": "^0.11.0",
     "connect-redis": "^4.0.4",
